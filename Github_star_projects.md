@@ -6,3 +6,9 @@
 
 # Python
 ## python http框架 https://github.com/kennethreitz/responder
+
+# k8s
+## Loki: like Prometheus, but for logs.  https://github.com/grafana/loki
+## A tool for developers to create cloud-native applications on Kubernetes. https://draft.sh
+- https://github.com/Azure/draft
+## 
