@@ -3,7 +3,8 @@
 
 # UI自动化
 - ## [robot framework 一个简单易用的关键字驱动的测试框架](https://github.com/robotframework/robotframework)
-- ## [一个 用于chrome/chromium browser的node.js框架](https://taiko.gauge.org)
+- ## [一个用于chrome/chromium browser的node.js框架 taiko](https://taiko.gauge.org)
+- ## [轻量级跨平台测试工具 guage](https://github.com/getgauge/gauge)
 
 # APP自动化
 - ## [Appium](https://github.com/appium/appium) 
