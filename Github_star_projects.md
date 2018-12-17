@@ -7,5 +7,5 @@
 ## [python http 异步框架](https://github.com/kennethreitz/responder)
 
 # k8s
-## [Loki: 像prometheus的log收集工具](https://github.com/grafana/loki)
+## [Loki: 类似prometheus的log收集工具](https://github.com/grafana/loki)
 ## [用于在k8s上面创建云原生的开发者工具](https://github.com/Azure/draft)
