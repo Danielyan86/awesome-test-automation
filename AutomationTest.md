@@ -1,5 +1,5 @@
 # awesome-test-automation
-收集各类爆款自动化框架
+收集各类爆款测试相关项目
 
 # UI自动化
 - ## [robot framework 一个简单易用的关键字驱动的测试框架](https://github.com/robotframework/robotframework)
@@ -20,3 +20,7 @@
 # 单元测试
 - ## [Pytest Python单元测试框架](https://docs.pytest.org/en/latest/)
 - ## [unittest Python原生单元测试框架](https://docs.python.org/3/library/unittest.html)
+
+
+# QA资料合集
+https://github.com/ramyrams/QA-Automation
