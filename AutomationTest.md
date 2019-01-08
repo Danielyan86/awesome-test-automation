@@ -14,6 +14,9 @@
 - ## [面向 HTTP(S) 协议的通用测试框架，只需编写维护一份YAML/JSON脚本](https://github.com/HttpRunner/HttpRunner)
 - ## [Python restapi 测试框架](https://github.com/svanoort/pyresttest)
 
+# API 性能测试
+- ## [基于python的API性能测试工具](https://github.com/locustio/locust)
+
 # 命令行工具
 - ## [pexpect 基于python的一个自动化工具](https://github.com/pexpect/pexpect)
 
