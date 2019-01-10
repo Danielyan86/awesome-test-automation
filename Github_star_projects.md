@@ -13,3 +13,6 @@
 # k8s
 ## [Loki: 类似prometheus的log收集工具](https://github.com/grafana/loki)
 ## [用于在k8s上面创建云原生的开发者工具](https://github.com/Azure/draft)
+
+# 爬虫
+## [微信爬虫](https://github.com/wonderfulsuccess/weixin_crawler)
