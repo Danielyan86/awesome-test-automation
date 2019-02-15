@@ -13,7 +13,7 @@
 # k8s
 ## [Loki: 类似prometheus的log收集工具](https://github.com/grafana/loki)
 ## [用于在k8s上面创建云原生的开发者工具](https://github.com/Azure/draft)
-## kubernetic k8s应用管理的桌面app，查看pod(https://github.com/harbur/kubernetic)
-
+## [kubernetic k8s应用管理的桌面app，查看pod](https://github.com/harbur/kubernetic)
+## [Apollo（阿波罗）是携程框架部门研发的分布式配置中心](https://github.com/ctripcorp/apollo)
 # 爬虫
 ## [微信爬虫](https://github.com/wonderfulsuccess/weixin_crawler)
