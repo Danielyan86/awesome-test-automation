@@ -24,6 +24,8 @@
 - ## [Pytest Python单元测试框架](https://docs.pytest.org/en/latest/)
 - ## [unittest Python原生单元测试框架](https://docs.python.org/3/library/unittest.html)
 
+# 模糊测试
+- ## [google模糊测试工具](https://github.com/google/clusterfuzz）
 
 # QA资料合集
 https://github.com/ramyrams/QA-Automation
