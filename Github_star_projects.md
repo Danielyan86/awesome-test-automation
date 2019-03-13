@@ -9,6 +9,7 @@
 # Python
 ## [python http 异步框架](https://github.com/kennethreitz/responder)
 ## [APP 抓包工具](https://github.com/mitmproxy/mitmproxy)
+## [各大网站模拟登陆工具](https://github.com/CriseLYJ/awesome-python-login-model)
 
 # k8s
 ## [Loki: 类似prometheus的log收集工具](https://github.com/grafana/loki)
