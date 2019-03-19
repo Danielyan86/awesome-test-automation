@@ -16,5 +16,11 @@
 ## [用于在k8s上面创建云原生的开发者工具](https://github.com/Azure/draft)
 ## [kubernetic k8s应用管理的桌面app，查看pod](https://github.com/harbur/kubernetic)
 ## [Apollo（阿波罗）是携程框架部门研发的分布式配置中心](https://github.com/ctripcorp/apollo)
+
+# prometheus
+## prometheus gitbook
+## [prometheus学习笔记](https://yunlzheng.gitbook.io/prometheus-book/)
+## deploy the prometheus in k8s(https://github.com/coreos/prometheus-operator/tree/master/contrib/kube-prometheus)
+
 # 爬虫
 ## [微信爬虫](https://github.com/wonderfulsuccess/weixin_crawler)
