@@ -5,6 +5,7 @@
 - ## [robot framework 一个简单易用的关键字驱动的测试框架](https://github.com/robotframework/robotframework)
 - ## [一个用于chrome/chromium browser的node.js框架 taiko](https://taiko.gauge.org)
 - ## [轻量级跨平台测试工具 guage](https://github.com/getgauge/gauge) Gauge + Taiko = 稳定的浏览器自动化，用于js测试
+- ## [基于js的UI自动化框架](https://github.com/cypress-io/cypress) 
 
 # APP自动化
 - ## [Appium](https://github.com/appium/appium) 
