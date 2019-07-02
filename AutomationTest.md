@@ -10,6 +10,7 @@
 # APP自动化
 - ## [Appium](https://github.com/appium/appium) 
 - ## [Airtest跨平台的UI自动化编辑器 ](https://github.com/AirtestProject/Airtest)
+- ## [Soloπ是一个无线化、非侵入式的Android自动化工具](https://github.com/alipay/SoloPi)
 
 # API自动化
 - ## [面向 HTTP(S) 协议的通用测试框架，只需编写维护一份YAML/JSON脚本](https://github.com/HttpRunner/HttpRunner)
