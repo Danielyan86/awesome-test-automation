@@ -29,5 +29,5 @@
 # 模糊测试
 - ## [google模糊测试工具](https://github.com/google/clusterfuzz）
 
-# QA资料合集
-https://github.com/ramyrams/QA-Automation
+# 测试用例管理
+- ## http://kiwitcms.org/
