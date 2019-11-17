@@ -17,6 +17,7 @@
 - ## [kubernetic k8s应用管理的桌面app，查看pod及应用状态](https://github.com/harbur/kubernetic)
 - ## [Apollo（阿波罗）是携程框架部门研发的分布式配置中心](https://github.com/ctripcorp/apollo)
 - ## [k9s-更强大的命令行管理工具](https://github.com/derailed/k9s)
+- ## [kubectx-快速切换集群和namespace工具](https://github.com/ahmetb/kubectx)
 
 # prometheus
 - ## prometheus gitbook
