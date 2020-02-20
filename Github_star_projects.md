@@ -32,6 +32,7 @@
 - ## [Python 特性详解](https://github.com/leisurelicht/wtfpython-cn)
 - ## [Python 各种样例代码](https://github.com/gto76/python-cheatsheet)
 - ## [Python solid 原则](https://github.com/heykarimoff/solid.python)
+- ## [抽象出来的用于执行ssh command 的lib](https://github.com/fabric/fabric/)
 
 # 机器学习
 - ## [图片风格快速转化](https://github.com/lengstrom/fast-style-transfer)
@@ -39,3 +40,6 @@
 # shell
 - ## [shell十三问--shell教程（markdown 版本）](https://github.com/wzb56/13_questions_of_shell)
 - ## [shell 脚本大全](https://github.com/fengyuhetao/shell)
+
+# 大数据
+- ## [大数据入门指南](https://github.com/heibaiying/BigData-Notes)
