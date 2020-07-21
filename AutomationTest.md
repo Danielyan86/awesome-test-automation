@@ -27,7 +27,10 @@
 - ## [unittest Python原生单元测试框架](https://docs.python.org/3/library/unittest.html)
 
 # 模糊测试
-- ## [google模糊测试工具](https://github.com/google/clusterfuzz）
+- ## [google模糊测试工具](https://github.com/google/clusterfuzz)
 
 # 测试用例管理
 - ## http://kiwitcms.org/
+
+# 小而美的自动化测试解决方案，支持 Web UI 测试，Http 接口测试，DB 操作测试，App 测试，小程序测试，Windows GUI 测试，文件操作
+https://github.com/tonglei100/sweetest
