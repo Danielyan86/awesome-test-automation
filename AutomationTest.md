@@ -32,5 +32,6 @@
 # 测试用例管理
 - ## http://kiwitcms.org/
 
-# 小而美的自动化测试解决方案，支持 Web UI 测试，Http 接口测试，DB 操作测试，App 测试，小程序测试，Windows GUI 测试，文件操作
-https://github.com/tonglei100/sweetest
+# 测试平台
+- ## [sweetest](https://github.com/tonglei100/sweetest) 
+Sweetest 是一款小而美的自动化测试解决方案，同时支持 Web UI，Http 接口，DB 操作测试，Android/iOS App 测试，小程序测试，Windows GUI 测试，文件操作；由于开始只支持 Web UI 测试，名字取自 Selenium，Web UI，Excel，Element， Test 含义。 

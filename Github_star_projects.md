@@ -18,6 +18,7 @@
 - ## [Apollo（阿波罗）是携程框架部门研发的分布式配置中心](https://github.com/ctripcorp/apollo)
 - ## [k9s-更强大的命令行管理工具](https://github.com/derailed/k9s)
 - ## [kubectx-快速切换集群和namespace工具](https://github.com/ahmetb/kubectx)
+- ## [一条命令部署 Kubernetes 高可用集群](https://github.com/fanux/sealos)
 
 # prometheus
 - ## prometheus gitbook
@@ -43,3 +44,11 @@
 
 # 大数据
 - ## [大数据入门指南](https://github.com/heibaiying/BigData-Notes)
+- ## [大数据面试题](https://github.com/wangzhiwubigdata/God-Of-BigData)
+
+# API server
+- ## [Fastapi 高性能python api server](https://github.com/tiangolo/fastapi)
+- ## [快速 高效的API客户端](https://hoppscotch.io/)
+
+# 加密工具
+- ## [vault](https://github.com/hashicorp/vault)
