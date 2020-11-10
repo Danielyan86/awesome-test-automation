@@ -47,9 +47,12 @@
 - ## [大数据入门指南](https://github.com/heibaiying/BigData-Notes)
 - ## [大数据面试题](https://github.com/wangzhiwubigdata/God-Of-BigData)
 
-# API server
+# API
 - ## [Fastapi 高性能python api server](https://github.com/tiangolo/fastapi)
-- ## [快速 高效的API客户端](https://hoppscotch.io/)
+- ## [快速 高效的API web 客户端](https://hoppscotch.io/)
+- ## [GraphQL - a query language for APIs created by Facebook](https://github.com/graphql/graphql-spec)
+- ## [Swagger - API 文档生成器](https://github.com/swagger-api/swagger-ui)
+- ## [Django REST Swagger](https://github.com/marcgibbons/django-rest-swagger)
 
 # 加密工具
 - ## [vault](https://github.com/hashicorp/vault)
