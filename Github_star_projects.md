@@ -37,6 +37,7 @@
 
 # 机器学习 
 - ## [图片风格快速转化](https://github.com/lengstrom/fast-style-transfer)
+- ## [apply the style of different images](https://github.com/ProGamerGov/neural-style-pt) 
 
 # shell
 - ## [shell十三问--shell教程（markdown 版本）](https://github.com/wzb56/13_questions_of_shell)
@@ -49,10 +50,20 @@
 
 # API
 - ## [Fastapi 高性能python api server](https://github.com/tiangolo/fastapi)
+- ## [Building Cli app](https://github.com/tiangolo/typer)
 - ## [快速 高效的API web 客户端](https://hoppscotch.io/)
 - ## [GraphQL - a query language for APIs created by Facebook](https://github.com/graphql/graphql-spec)
 - ## [Swagger - API 文档生成器](https://github.com/swagger-api/swagger-ui)
 - ## [Django REST Swagger](https://github.com/marcgibbons/django-rest-swagger)
+ 
 
 # 加密工具
 - ## [vault](https://github.com/hashicorp/vault)
+- ## [trojan Android app](https://github.com/trojan-gfw/igniter)
+
+# VIM
+- ## [learn-vim](https://github.com/iggredible/Learn-Vim)
+
+## Financial Data
+- ## [天天基金数据](https://github.com/weibycn/fund)
+- ## [all Financial data](https://github.com/waditu/tushare)
